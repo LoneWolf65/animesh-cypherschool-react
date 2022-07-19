@@ -98,7 +98,4 @@ How to use a componenet library in a project and buid bigger components. Working
 <br />
 
 ## **Author**
-
-
-- **Twitter** - [@yogi](https://twitter.com/Yogi02932136)
-- **LinkedIn** - [Yogendra Katara](https://www.linkedin.com/in/yogendra-katara-822a68192/)
+- **LinkedIn** - [Animesh Singh](https://www.linkedin.com/in/animesh-singh-04831a197/)
